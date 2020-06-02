@@ -1,0 +1,2 @@
+# gyakorl-s
+próbafojamat
